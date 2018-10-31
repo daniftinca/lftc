@@ -1,2 +1,2 @@
 # lftc
-My compilation and formal languages homework folder
+My compilation and formal languages homework repo
